@@ -5,7 +5,7 @@
 1. Clone project
 
 
-git clone <[repo-url](https://github.com/Razu-Biswas/patient-management.git)>
+git clone <[Repo-url/Link](https://github.com/Razu-Biswas/patient-management.git)>
 ````
 cd patient-management
 composer install
